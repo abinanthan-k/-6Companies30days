@@ -1,1 +1,1 @@
-# -6Companies30days
+# 6Companies in 30 days
